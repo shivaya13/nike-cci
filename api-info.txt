@@ -1,0 +1,6 @@
+api-key: 4086f5c1aea89cd19078ff7a9d178c14
+pswd: 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
+
+samlpe url: https://4086f5c1aea89cd19078ff7a9d178c14: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@nike-cci.myshopify.com/admin/api/2020-04/orders.json
+
+shared code: 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
