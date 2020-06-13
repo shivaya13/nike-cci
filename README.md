@@ -6,7 +6,7 @@
 > npm install
 
 ### ***Démarrer le server local :***
-> npm run server
+> npm start
 
 ## **Exercice :**
 
